@@ -55,7 +55,19 @@ This project is licensed under the MIT License.
 ## Screenshots:
 
 ![Screenshot of Ruche](Screenshot1.png)
+
+---
+
 ![Screenshot of Ruche](Screenshot2.png)
+
+---
+
 ![Screenshot of Ruche](Screenshot3.png)
+
+---
+
 ![Screenshot of Ruche](Screenshot4.png)
+
+---
+
 ![Screenshot of Ruche](Screenshot5.png)
